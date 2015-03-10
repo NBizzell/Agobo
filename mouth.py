@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import RPI.GPIO as GPIO
 
 GPIO.setmode(GPIO.BOARD)
