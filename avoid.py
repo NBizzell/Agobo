@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import agobo
 import time
 import mouth
