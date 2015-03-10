@@ -15,3 +15,7 @@ sonarTest.py - prints the distance in cm to the nearest sonar reflecting object 
 switchTest.py - prints the state of the mode switch once per second
 
 strandtest.py - flashes colour changes to the neopixel on PlusPlate. Requires _rpi_ws281x library from https://learn.adafruit.com/neopixels-on-raspberry-pi/software to be installed.
+
+mouth.py - mouth library modules.
+mouthtest.py - cycles through the different facial expressions.
+avoid.py - avoids objects and pulls facial expressions.
