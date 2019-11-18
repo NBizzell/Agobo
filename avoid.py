@@ -9,6 +9,7 @@ agobo.init
 speed = 50
 angle = 1.08
 space = 10
+test = 80
 
 try:
   while True:
@@ -36,7 +37,6 @@ try:
   mouth.smile()
 except KeyboardIterupt:
   print
-  
+
 finally:
   agobo.cleanup()
-  
